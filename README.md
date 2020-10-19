@@ -1,0 +1,2 @@
+# GoJVM
+This is an emerging project, using Go language to implement Java virtual machine. Through this project, you can not only learn the basic use of go language, but also understand the operation principle of Java virtual machine, and have a further understanding of class loading mechanism and parent delegation mechanism. This project refers to the book 《自己用手实现Java虚拟机》. Readers are welcome to point out the loopholes in the project.
